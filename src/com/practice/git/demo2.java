@@ -4,7 +4,7 @@ public class demo2 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("!!!!!!Did changes for premaster!!!!");
+		 
 		System.out.println("Created demo2 class for testing mylocal branch ");
 
 	}
